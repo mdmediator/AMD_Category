@@ -1,0 +1,7 @@
+AMD_Category.xcodeproj/xcuserdata/
+AMD_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+AMD_Category.xcodeproj/project.xcworkspace/xcuserdata/
